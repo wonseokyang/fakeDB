@@ -131,96 +131,41 @@
       "pixel_id": "551877808690644"
     }
   ],
-  "products": [
+  "pages": [
     {
       "id": 1,
       "title": "Combo Bảo Vệ Da Toàn Diện Soonnoc Peptide Ampoule 40ml & Amazon No Sebum Sun Protection Cream",
       "brand_id": 17,
-      "brand_name": "Soonnoc"
+      "brand_name": "Soonnoc",
+      "url": "https://gomistore.vn/products/nhan-ban-cua-combo-duong-da-toan-dien-soonnoc-aqua-cleansing-bar-peptide-ampoule-40ml"
     },
     {
       "id": 2,
       "title": "Combo Dưỡng Da Toàn Diện Soonnoc Aqua Cleansing Bar & Peptide Ampoule 40ml",
       "brand_id": 17,
-      "brand_name": "Soonnoc"
+      "brand_name": "Soonnoc",
+      "url": "https://gomistore.vn/products/combo-duong-da-toan-dien-soonnoc-aqua-cleansing-bar-peptide-ampoule-40ml"
     },
     {
       "id": 3,
       "title": "Combo Làm Sạch Sâu Da Mặt Soonnoc Sensitive Cleansing Milk & Aqua Cleasing Bar",
       "brand_id": 17,
-      "brand_name": "Soonnoc"
+      "brand_name": "Soonnoc",
+      "url": "https://gomistore.vn/products/combo-lam-sach-sau-da-mat-soonnoc-sensitive-cleansing-milk-aqua-cleasing-bar"
     },
     {
       "id": 4,
-      "title": "Kem Chống Nắng Không Gây Kích Ứng Soonnoc Amazon No Sebum Sun Protection Cream",
-      "brand_id": 17,
-      "brand_name": "Soonnoc"
+      "title": "Phấn Nước Siêu Che Phủ DewyCel Super Cover Cushion",
+      "brand_id": 7,
+      "brand_name": "DewyCel",
+      "url": "https://gomistore.vn/products/pha-n-nuo-c-sieu-che-phu-dewycel-super-cover-cushion"
     },
     {
       "id": 5,
-      "title": "Xà Phòng Rửa Mặt Soonnoc Aqua Cleansing Bar",
-      "brand_id": 17,
-      "brand_name": "Soonnoc"
-    },
-    {
-      "id": 6,
-      "title": "Sữa Tẩy Trang Cho Da Nhạy Cảm Soonnoc Sensitive Cleansing Milk",
-      "brand_id": 17,
-      "brand_name": "Soonnoc"
-    },
-    {
-      "id": 7,
-      "title": "Tinh Chất Dưỡng Da và Làm Trắng Soonnoc Perfect Whitening Vitamin Peptide Ampoule",
-      "brand_id": 17,
-      "brand_name": "Soonnoc"
-    },
-    {
-      "id": 8,
-      "title": "Combo 2 Tinh Chất Dưỡng Da và Làm Trắng Soonnoc Perfect Whitening Vitamin Peptide Ampoule",
-      "brand_id": 17,
-      "brand_name": "Soonnoc"
-    },
-    {
-      "id": 9,
-      "title": "Combo 2 Sữa Tẩy Trang Cho Da Nhạy Cảm Soonnoc Sensitive Cleansing Milk",
-      "brand_id": 17,
-      "brand_name": "Soonnoc"
-    },
-    {
-      "id": 10,
-      "title": "Combo 3 Xà Phòng Rửa Mặt Soonnoc Aqua Cleansing Bar",
-      "brand_id": 17,
-      "brand_name": "Soonnoc"
-    },
-    {
-      "id": 11,
-      "title": "Combo 2 Kem Chống Nắng Không Gây Kích Ứng Soonnoc Amazon No Sebum Sun Protection Cream",
-      "brand_id": 17,
-      "brand_name": "Soonnoc"
-    },
-    {
-      "id": 12,
-      "title": "Phấn Nước Siêu Che Phủ DewyCel Super Cover Cushion",
-      "brand_id": 7,
-      "brand_name": "DewyCel"
-    },
-    {
-      "id": 13,
       "title": "Combo Phấn Nước Siêu Che Phủ DewyCel Super Cover Cushion No.21 (+1 Refill)",
       "brand_id": 7,
-      "brand_name": "DewyCel"
-    },
-    {
-      "id": 14,
-      "title": "Kem Dưỡng Nâng Tone Da DewyCel Turn On Cream",
-      "brand_id": 7,
-      "brand_name": "DewyCel"
-    },
-    {
-      "id": 15,
-      "title": "Kem Dưỡng Da DewyCel CiCa Plus Balm",
-      "brand_id": 7,
-      "brand_name": "DewyCel"
+      "brand_name": "DewyCel",
+      "url": "https://gomistore.vn/products/combo-pha-n-nuo-c-sieu-che-phu-dewycel-super-cover-cushion-no-21-1-refill"
     }
   ]
 }
